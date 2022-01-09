@@ -1,0 +1,26 @@
+{
+	"greetings": ["hi", "hi there", "hello","haroo","yaw","wassup", "wazzup", "whats up", "how you doin", "hi bot", "hello bot", "hey", "hey bot", "hola", "holla", "hola amigo", "Hi, how are you"],
+	"greetings_response": "Hi there! My name is Arey-o-Samba. I am an Industrial Safety Chatbot. How may I assist you?",
+	
+	"goodbye": ["bye", "good bye", "see you later"],
+	"goodbye_response": "Bye, have a safe and productive day",
+	
+	"thanks": ["thanks", "okay","Thank you","thankyou", "That's helpful", "Awesome, thanks", "Thanks for helping me", "wow", "great"],
+	"thanks_response": "Happy to help!",
+
+	"accident": ["i want to report an accident", "an accident has happened", "i saw an accident", "a colleague was involved in an accident", "a colleague was injured in an accident", "someone met with an accident", "someone got injured", "i witnessed an accident", "someone got hurt"],
+	"accident_response": "Can you please describe with at least 50 words about the accident - the situation, the event, the people involved, the injury and the consequences?",
+	
+	"default_response": "Sorry, i am just a bot, can you please help me with the description of the accident",
+	
+	"0": "This is at level 1 risk, please read the manual and saftey procedures",
+	
+	"1": "This is at level 2 risk, please read the operating procedures",
+	
+	"2": "This is at level 3 risk, operate with caution",
+	
+	"3": "This is at level 4 risk, operate with caution and with supervision",
+	
+	"4": "This is at level 5 risk, please contact your plant manager for further details"
+	
+}
